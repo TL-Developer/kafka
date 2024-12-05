@@ -26,3 +26,7 @@ Log Producer realtime
 ```
 kafka-console-producer --bootstrap-server=localhost:9092 --topic=sales
 ```
+
+# REDPANDA
+
+redpanda is a dashboard console for Kafka and is running on port 8080
